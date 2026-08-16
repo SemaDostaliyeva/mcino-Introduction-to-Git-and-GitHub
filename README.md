@@ -1,3 +1,6 @@
+## Update
+
+Fixed a typo in the project documentation.
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
