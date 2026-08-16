@@ -1,4 +1,4 @@
-## Update
+## Update2
 
 Fixed a typo in the project documentation.
 # Introduction to Git and GitHub
